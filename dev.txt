@@ -1,0 +1,5 @@
+I am developing the new function.
+However, I get a task to solve the bug 101.
+I have to create a branch to solve it.
+However, the dev is done half, so I can not commit it.
+Fortunately, there is command "stash"!
