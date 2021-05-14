@@ -1,1 +1,1 @@
-create a new branch "dev" is quick
+create a new branch "dev" is quick AND simple.
